@@ -4,7 +4,6 @@ packages:
 - '.'
 
 extra-deps:
-  # - codeworld-api-0.2.2.1
   - codeworld-api-0.2.0.0
 
 flags: {}
